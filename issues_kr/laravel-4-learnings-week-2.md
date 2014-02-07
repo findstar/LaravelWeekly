@@ -1,11 +1,11 @@
 #Laravel 4 Learnings: week2
 
-*이글은 [weekly-laravel-weekly-2](http://driesvints.com/blog/laravel-4-learnings-week-2/) 의 글을 번역한것입니다.원 저작자인 dries vints 의 동의를 얻어 번역글을 게제합니다. 가급적 이해하는데 도움이 되도록 의역이 포함되어 있을 수 있습니다. 문맥이 매끄럽지 못한 부분은 번역주를 붙여두었습니다.*
- 
+*이글은 [weekly-laravel-weekly-2](http://driesvints.com/blog/laravel-4-learnings-week-2/) 의 글을 번역한것입니다. 원 저작자인 dries vints 의 동의를 얻어 번역글을 게제합니다. 가급적 이해하는데 도움이 되도록 의역이 포함되어 있을 수 있습니다. 문맥이 매끄럽지 못한 부분은 번역주를 붙여두었습니다.*
 
-지난한주는 Laravel4 에 있어서 대단한 한주였습니다. 많은 기능들과 여러 유용한 팁,그리고 자료들이 추가되었습니다. 
 
-##Laravel4 베타4 버전이 이전주 목요일에 릴리즈 될 예정입니다. 
+지난한주는 Laravel4 에 있어서 대단한 한주였습니다. 많은 기능들과 여러 유용한 팁,그리고 자료들이 추가되었습니다.
+
+##Laravel4 베타4 버전이 이전주 목요일에 릴리즈 될 예정입니다.
 
 Laravel4 의 4번째 베타버전이 메뉴얼과 함께 이번주 목요일에 릴리즈 될 예정입니다.새롭게 추가된 멋진 기능들을 확인 해 볼 수 있을 것입니다! :)
 
@@ -33,7 +33,7 @@ require __DIR__.'/../filters.php';
 
 이렇게 이야기 하고 있습니다. 따라서 오토로딩을 할 수 있는 위치라면 어느 곳이라도 마음대로 파일 위치를 정할 수 있습니다.
 
-##모델에서의 네임스페이스Namespacing your models
+##모델에서의 네임스페이스(Namespacing your models)
 
 나는 모델의 첫부분에 네임스페이스를 추가하는 것이 어플리케이션 개발에 도움이 된다는 것을 깨달았습니다. 왜냐하면 당신이 어플리케이션을 개발함에 있어서 언젠가는 동일한 이름이 이미 laravel 어플리케이션 안에 존재할 수 있다는 것을 깨달을 것이기 때문입니다. `File`이라는 이름을 가지는 모델을 생각해 봅시다. 라라벨에서는 이미 파일시스템상에서 파일들을 다루는 파사드의 이름으로 `File`이라는 명칭을 사용하고 있습니다. 이러한 이유로 `File` 이라는 동일한 이름을 사용하는 것은 간섭을 일으킬 수 있습니다. 여기서 필요한 것이 바로 네임스페이스 입니다.
 
@@ -78,14 +78,14 @@ class UserController extends BaseController {
 
 만약 당신이 처음부터 모델에 네임스페이스를 지정했다면 나중에 다른곳에서 동일한 이름때문에 문제가 발생할 여지를 줄여줄 것입니다.
 
-##모델 쿼리 스코프 Model query scopes
+##모델 쿼리 스코프(Model query scopes)
 
 몇일 전에 라라벨4 베타 버전에 모델 쿼리 스코프 기능이 추가되었습니다!
 
 https://twitter.com/laravelphp/status/314568892376829952
 
 
-##데이타베이스 합계 함수 Database aggregate functions
+##데이타베이스 합계 함수(Database aggregate functions)
 
 이건 라라벨4에서 추가된 기능으로 정말 유용합니다. 수학적인 함수들을 사용해서 데이타베이스로 부터 즉시 값을 얻을 수 있습니다.
 
@@ -117,7 +117,9 @@ Jeffrey Way가 집필한 라라벨 테스팅에 대한 멋진 책이 나왔습�
  - [Laravel wallpapers!](https://github.com/msurguy/Laravel-wallpapers) by [Maksim Surguy](https://twitter.com/msurguy)
  - [Installing and updating Laravel 4](http://niallobrien.me/2013/03/installing-and-updating-laravel-4/) by [Niall O'Brien](https://twitter.com/niall_obrien)
  - [Authentication & Authorisation](http://niallobrien.me/2013/03/authentication-authorisation/) by [Niall O'Brien](https://twitter.com/niall_obrien)
- - - -
+
+
+
 *원 글은 다음 링크에서 확인하실 수 있습니다. [Original Link](http://driesvints.com/blog/laravel-4-learnings-week-2/)*
 
 

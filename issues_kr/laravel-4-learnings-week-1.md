@@ -3,14 +3,14 @@
 이글은 [weekly-laravel-weekly-1](http://driesvints.com/blog/weekly-laravel-4-learnings-week-1/) 의 글을 번역한것입니다.
 
 원 저작자인 dries vints 의 동의를 얻어 번역글을 게제합니다. 가급적 이해하는데 도움이 되도록 의역이 포함되어 있을 수 있습니다. 문맥이 매끄럽지 못한 부분은 번역주를 붙여두었습니다.
- 
+
 
 저는 Laravel4 를 배우는 모든 과정을 기록하기로 마음먹고, 그 과정들을 매주 이 블로그에 포스팅하기로 결정했습니다. 앞으로 기록하게 되는 이 내용들이 Laravel4를 배우고자 하는 다른 사람들에게 도움이 되길 바랍니다. 매주 가능한 많은 팁들을 기록하고자 합니다. 이 포스팅이 그 시작인 첫번째 포스팅입니다.
- 
+
 
 자 그럼 시작하겠습니다!
 
- 
+
 
 ##헬퍼 메소드(Helper methods)
 
@@ -22,16 +22,15 @@
 
 ('<route name>@method') 와 같은 형식의  named resourceful routes 를 추가하는것이 가능한지에 대해서 Laravel4의 메뉴얼 에서도도,  github을 통해서  질문해 보았었지만 [link](https://github.com/laravel/framework/issues/550) 찾을 수가 없었습니다. 하지만 Taylor 가 알려주길 이미 이러한 route 를 추가하는것이 가능하다고 알려주었습니다.
 
-(번역주 : 여기서 이야기하는 Named resourful routes 라는 것은 route.php 에서  resource 에 대한 route 를 정하는데 있어 이름을 지정하는 것을 의미합니다. Route::resource('....','...') 형식임을 생각하시면 됩니다.  한국어메뉴얼#컨트롤러 참고하시면 좀 더 이해하는데 도움이 됩니다.)
+(번역주 : 여기서 이야기하는 Named resourful routes 라는 것은 route.php 에서  resource 에 대한 route 를 정하는데 있어 이름을 지정하는 것을 의미합니다. Route::resource('....','...') 형식임을 생각하시면 됩니다. [한국어메뉴얼#컨트롤러](http://laravel-korea.org/docs/controllers)를 참고하시면 좀 더 이해하는데 도움이 됩니다.)
 
- 
 
 모든 resourceful route 는 자동으로 그 자신을 라우팅 할 수 있는 고유 이름을 가지게 됩니다. 이 이름은 실제로 지정된 route의 형식이 아니고, 단지 resourceful route 을 가리킬뿐입니다. 기본적으로 resourceful 컨트롤러의 메소드와 연결되는 링크를 구성하기를 원한다면 다음과 같이 할 수 있습니다.
 
-	// route 는 resourceful controller 에 해당하는 링크를 생성합니다. 
+	// route 는 resourceful controller 에 해당하는 링크를 생성합니다.
 
-	//route() 메소드는 helper function. 에서 찾을 수 있습니다. 
-	route('users.edit',1);  // 이렇게 수행하는 것은 
+	//route() 메소드는 helper function. 에서 찾을 수 있습니다.
+	route('users.edit',1);  // 이렇게 수행하는 것은
 
 	// 다음과 같은 결과를 생성합니다. 
 
