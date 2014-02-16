@@ -105,9 +105,9 @@ https://twitter.com/jeffrey_way/status/315128395346362370
 Jeffrey Way가 집필한 라라벨 테스팅에 대한 멋진 책이 나왔습니다. [a cool eBook](https://leanpub.com/laravel-testing-decoded)
 
 
-##참고
+##더 읽어볼만한 자료들
 
-이번 weekly 를 준비하는데 참고한 내용들입니다.
+이번주에 읽어볼만한 자료들 입니다.
  - [Error After A Composer Update Of The Laravel 4 Beta](http://jasonlewis.me/article/error-afer-a-composer-update-of-the-laravel-4-beta) by [Jason Lewis](https://twitter.com/jasonclewis)
  - [Snappy](http://besnappy.com/): Helpdesk service by [Userscape](http://www.userscape.com/) which is actually build by Taylor amongst others. You can bet Laravel is powering it ;)
  - A bunch of new videos are up at Nettuts: https://tutsplus.com/course/whats-new-in-laravel-4/
