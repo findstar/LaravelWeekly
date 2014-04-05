@@ -9,7 +9,7 @@ http://driesvints.com/blog/laravel-weekly-8
 
  이제부터는 이 포스트를 트위터에 #laravelweekly 해쉬태그와 함께 트윗할 예정입니다. 또한 앞으로 이 포스트에 대한 몇몇 아이디어를 가지고 있습니다. 지켜봐 주시기 바랍니다 :)
 
- 만약 당신의 좋은 자료들, 패키지, 기사와 이름이 소개되기를 트위터에서 제게 멘션을 주거나 이메일을 보내주세요.
+ 만약 당신의 좋은 자료들, 패키지, 기사와 이름이 소개되기를 바란다면 트위터에서 제게 멘션을 주거나 이메일을 보내주세요.
 
 ## StackExchange 제안에 무슨일이 있었나요?(What Happened To The StackExchange Proposal?)
 
