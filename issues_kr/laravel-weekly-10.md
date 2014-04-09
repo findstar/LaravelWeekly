@@ -1,7 +1,5 @@
 http://laravel.io/topic/28/laravel-weekly-10
 
-# Laravel Weekly #10
-
 *이글은 [laravel weekly #10](http://laravel.io/topic/28/laravel-weekly-10) 의 글을 번역한것입니다. 원 저작자인 dries vints 의 동의를 얻어 번역글을 게제합니다. 가급적 이해하는데 도움이 되도록 의역이 포함되어 있을 수 있습니다. 문맥이 매끄럽지 못한 부분은 번역주를 붙여두었습니다.*
 
 # Laravel Weekly #10
@@ -86,20 +84,31 @@ Cartalyst는 큰 데이타들를 다룰 수 있는 새로운 라라벨 4 패키�
 ### 기사글
 
 [Laravel 4 Gems: Route parameter binding](http://www.develophp.org/2013/05/laravel-4-route-parameter-binding/) by [Franz Liedke](https://twitter.com/franzliedke)
+
 [Getting started with Laravel 4](http://culttt.com/2013/04/29/getting-started-with-laravel-4/) by [Philip Brown](https://twitter.com/philipbrown)
+
 [Laravel 4 Migrations](http://culttt.com/2013/05/06/laravel-4-migrations/) by [Philip Brown](https://twitter.com/philipbrown)
+
 [Setting up your first Laravel 4 Model](http://culttt.com/2013/05/13/setting-up-your-first-laravel-4-model) by [Philip Brown](https://twitter.com/philipbrown)
+
 [Getting started with testing Laravel 4 Models](http://culttt.com/2013/05/20/getting-started-with-testing-laravel-4-models/) by [Philip Brown](https://twitter.com/philipbrown)
+
 [Laravel 4 Fixture Replacement with FactoryMuff](http://culttt.com/2013/05/27/laravel-4-fixture-replacement-with-factorymuff/) by [Philip Brown](https://twitter.com/philipbrown)
+
 [Laravel 4: A few helpful tips](http://craigcartmell.com/article/show/4/Laravel-4:-A-few-helpful-tips) by [Craig Cartmell](https://twitter.com/craigcartmell1)
+
 [How to Write Testable and Maintainable Code in PHP](http://net.tutsplus.com/tutorials/php/how-to-write-testable-and-maintainable-code-in-php) by [Chris Fidao](https://twitter.com/fideloper)
 
 ### 유용한 패키지(Packages)
 
 [LMongo - A MongoDB package for Laravel 4](https://github.com/navruzm/lmongo) by [Mustafa Navruz](https://twitter.com/navruzm)
+
 [Laravel Eloquent MongoDB](https://github.com/jenssegers/Laravel-MongoDB) by [Jens Segers](https://twitter.com/jenssegers)
+
 [Twig for Laravel 4](https://github.com/cogpowered/TwigBridge) by [Cog Powered](http://cogpowered.com/)
+
 [Laravel 4 Hashing](https://github.com/robclancy/laravel4-hashing) by [Robert Clancy](https://twitter.com/RobboClancy)
+
 
 ### 기타 링크(Other links)
 

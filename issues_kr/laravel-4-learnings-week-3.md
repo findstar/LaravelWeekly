@@ -1,8 +1,8 @@
 http://driesvints.com/blog/laravel-4-learnings-week-3
 
-#Laravel 4 Learnings: week3
-
 *이글은 [weekly-laravel-weekly-3](http://driesvints.com/blog/laravel-4-learnings-week-3) 의 글을 번역한것입니다. 원 저작자인 dries vints 의 동의를 얻어 번역글을 게제합니다. 가급적 이해하는데 도움이 되도록 의역이 포함되어 있을 수 있습니다. 문맥이 매끄럽지 못한 부분은 번역주를 붙여두었습니다.*
+
+#Laravel 4 Learnings: week3
 
 이번주는 라라벨4 베타4 버전이 발표된 대단한 한주였습니다. 프레임워크에는 많은 새로운 기능들이 추가되었습니다. 나는 새로운 기능들 뿐만 아니라 팁, 트위터 및 다음 링크에 게시된 내용들에 대해서 살펴볼 것입니다.
 https://twitter.com/laravelphp/status/317671374762156032

@@ -1,8 +1,9 @@
 http://driesvints.com/blog/laravel-4-learnings-week-4
 
+*이글은 [weekly-laravel-weekly-4](http://driesvints.com/blog/laravel-4-learnings-week-4) 의 글을 번역한것입니다. 원 저작자인 dries vints 의 동의를 얻어 번역글을 게제합니다. 가급적 이해하는데 도움이 되도록 의역이 포함되어 있을 수 있습니다. 문맥이 매끄럽지 못한 부분은 번역주를 붙여두었습니다.*
+
 #Laravel 4 Learnings: week 4
 
-*이글은 [weekly-laravel-weekly-4](http://driesvints.com/blog/laravel-4-learnings-week-4) 의 글을 번역한것입니다. 원 저작자인 dries vints 의 동의를 얻어 번역글을 게제합니다. 가급적 이해하는데 도움이 되도록 의역이 포함되어 있을 수 있습니다. 문맥이 매끄럽지 못한 부분은 번역주를 붙여두었습니다.*
 
  이번주에는 시간이 많이 없는 관계로 유용한 팁을 소개할 수가 없었습니다. 그래서 유용한 자료들 링크와 이번주에 일어난 몇개의 일들로만 구성해 보았습니다.
 

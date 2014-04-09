@@ -1,8 +1,10 @@
-#Laravel 4 Learnings: week1
+http://driesvints.com/blog/weekly-laravel-4-learnings-week-1/
 
 이글은 [weekly-laravel-weekly-1](http://driesvints.com/blog/weekly-laravel-4-learnings-week-1/) 의 글을 번역한것입니다.
 
 원 저작자인 dries vints 의 동의를 얻어 번역글을 게제합니다. 가급적 이해하는데 도움이 되도록 의역이 포함되어 있을 수 있습니다. 문맥이 매끄럽지 못한 부분은 번역주를 붙여두었습니다.
+
+#Laravel 4 Learnings: week1
 
 
 저는 Laravel4 를 배우는 모든 과정을 기록하기로 마음먹고, 그 과정들을 매주 이 블로그에 포스팅하기로 결정했습니다. 앞으로 기록하게 되는 이 내용들이 Laravel4를 배우고자 하는 다른 사람들에게 도움이 되길 바랍니다. 매주 가능한 많은 팁들을 기록하고자 합니다. 이 포스팅이 그 시작인 첫번째 포스팅입니다.

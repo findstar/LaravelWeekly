@@ -1,8 +1,9 @@
 http://driesvints.com/blog/laravel-4-learnings-week-5
 
+*이글은 [weekly-laravel-weekly-5](http://driesvints.com/blog/laravel-4-learnings-week-5) 의 글을 번역한것입니다. 원 저작자인 dries vints 의 동의를 얻어 번역글을 게제합니다. 가급적 이해하는데 도움이 되도록 의역이 포함되어 있을 수 있습니다. 문맥이 매끄럽지 못한 부분은 번역주를 붙여두었습니다.*
+
 #Laravel 4 Learnings: week 5
 
-*이글은 [weekly-laravel-weekly-5](http://driesvints.com/blog/laravel-4-learnings-week-5) 의 글을 번역한것입니다. 원 저작자인 dries vints 의 동의를 얻어 번역글을 게제합니다. 가급적 이해하는데 도움이 되도록 의역이 포함되어 있을 수 있습니다. 문맥이 매끄럽지 못한 부분은 번역주를 붙여두었습니다.*
 
  우와, 벌써 라라벨 위클리를 시작한지 5주나 지났나요? 시간이 참 빠르네요. 많은 분들이 보내주신 성원과 반응에 감사드리고 싶습니다.  다시한번 읽어주셔서 감사합니다. 라라벨 4에 대해서 어떤 좋은 블로그 글이나 패키지 또는 다른 어떤 소개할 만한 것을 알고 계신다면 제게 메일이나 멘션을 주세요, 그럼 다음주 포스트에 포함시키도록 하겠습니다. :)
 

@@ -1,7 +1,8 @@
-#Laravel 4 Learnings: week2
+http://driesvints.com/blog/laravel-4-learnings-week-2/
 
 *이글은 [weekly-laravel-weekly-2](http://driesvints.com/blog/laravel-4-learnings-week-2/) 의 글을 번역한것입니다. 원 저작자인 dries vints 의 동의를 얻어 번역글을 게제합니다. 가급적 이해하는데 도움이 되도록 의역이 포함되어 있을 수 있습니다. 문맥이 매끄럽지 못한 부분은 번역주를 붙여두었습니다.*
 
+#Laravel 4 Learnings: week2
 
 지난한주는 Laravel4 에 있어서 대단한 한주였습니다. 많은 기능들과 여러 유용한 팁,그리고 자료들이 추가되었습니다.
 

@@ -1,9 +1,8 @@
 http://driesvints.com/blog/laravel-weekly-8
 
-# Laravel Weekly #8
-
 *이글은 [laravel weekly 8](http://driesvints.com/blog/laravel-weekly-8) 의 글을 번역한것입니다. 원 저작자인 dries vints 의 동의를 얻어 번역글을 게제합니다. 가급적 이해하는데 도움이 되도록 의역이 포함되어 있을 수 있습니다. 문맥이 매끄럽지 못한 부분은 번역주를 붙여두었습니다.*
 
+# Laravel Weekly #8
 
  weekly 의 이름을 다시 한번 변경했습니다. 이번이 마지막이 될 수 있을까요? 아마 그렇지는 않을것 같네요.
 
